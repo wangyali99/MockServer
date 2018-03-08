@@ -9,6 +9,7 @@ import (
 	"net/http"
 	"os"
 	"mockserver/common"
+	"path/filepath"
 )
 
 // request & response mapping struct
@@ -32,13 +33,15 @@ var mappings []*RespMapping
 // 3. 返回结果
 
 func main() {
-	mappingFilePath := "/Users/mrsimple/GoProjects/src/mockserver/config/mapping.json"
-	if len(os.Args) == 2 {
-		mappingFilePath = os.Args[1]
-	}
+	current_dir, _ := os.Getwd()
+	mappingFilePath := filepath.Join(current_dir,"config", "mapping.json")
+	// if len(os.Args) == 2 {
+	// 	mappingFilePath = filepath.Join(current_dir,"config",os.Args[1])
+	// }
 	fmt.Println("====> Mapping file is ", mappingFilePath)
 
-	err := readConfig(mappingFilePath)
+	response_dir := filepath.Join(current_dir,"config","responses")
+	err := readConfig( response_dir, mappingFilePath)
 	if err == nil {
 		createRouter()
 	} else {
@@ -46,11 +49,27 @@ func main() {
 	}
 }
 
-func readConfig(configFile string) error  {
+func readConfig( response_dir string, configFile string) error  {
 	configData, err := ioutil.ReadFile(configFile)
-	//fmt.Println("read data from ", configFile, ", data is : \n ", string(configData))
+	fmt.Println("read data from ", configFile, ", data is : \n ", string(configData))
 	if  err == nil {
-		return json.Unmarshal(configData, &mappings)
+		jerr := json.Unmarshal(configData, &mappings)
+		if jerr == nil {
+			for _, item := range mappings {
+				item.RespFilePath = filepath.Join(response_dir, item.RespFilePath)
+				fmt.Println("route : " , item)
+			}
+			
+		} else {
+			fmt.Println("Unmarshal faild","")
+		}   
+// 59     } else {
+// 60         for _, item := range mappings {
+// 			 item.RespFilePath = filepath.Join(response_dir, item.RespFilePath)
+// 			 fmt.Println("route : " , item)
+// 		  }
+// 62     }
+	    return jerr
 	} else {
 		fmt.Println("read resp mapping file error !!!")
 		return errors.New("read resp mapping file error !!!")
@@ -83,6 +102,7 @@ func processRequest(w http.ResponseWriter, r *http.Request)  {
 	}()
 	fmt.Println("==> Request path : ", r.URL.Path, " , method : ", r.Method)
 	item, notFound := findRespMapping(mappings, r)
+	fmt.Println("item: ", item)
 	if notFound != nil {
 		panic("Not found RespMapping!")
 	}

@@ -1,151 +1,1223 @@
 {
   "articles": [
     {
-      "top_images": [{
-        "origin": "http://image.newsdog.today/origin_936e9022d89d8b9a9d6173fdbd6b66fc",
-        "width": 600,
-        "thumb_height": 113,
-        "thumb": "http://image.newsdog.today/thumb_936e9022d89d8b9a9d6173fdbd6b66fc",
-        "thumb_width": 200,
-        "source": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/12/23/876/493/694940094001_5260046098001_Israeli-ambassador-to-UN-We-are-disappointed.jpg?ve=1&tl=1",
-        "height": 338
-      }],
-      "partner_switch": false,
-      "related_images": [{
-        "origin": "http://image.newsdog.today/origin_936e9022d89d8b9a9d6173fdbd6b66fc",
-        "source": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/12/23/876/493/694940094001_5260046098001_Israeli-ambassador-to-UN-We-are-disappointed.jpg?ve=1&tl=1",
-        "thumb_height": 113,
-        "thumb": "http://image.newsdog.today/thumb_936e9022d89d8b9a9d6173fdbd6b66fc",
-        "thumb_width": 200,
-        "width": 600,
-        "height": 338
-      }],
-      "title": "Trump was right to try to stop Obama from tying his hands on Israel",
-      "seq_id": 220955201,
-      "is_hot": 1,
-      "site_url": "www.foxnews.com",
-      "source": "Fox News",
-      "published_at": "2016-12-24 00:00:00",
-      "like_count": 1,
-      "comments_count": 0,
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d72a4c699f080688e3e215b073f5317a",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_d72a4c699f080688e3e215b073f5317a",
+          "thumb_width": 250,
+          "width": 644,
+          "height": 362,
+          "source": "https://static.newsx.com/wp-content/uploads/2018/02/30269-ilvgfbyihv-1502284337-644x362.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": true,
+      "shared_count": 3,
+      "ad_type": "admob",
+      "source_url": "http://www.newsx.com/regional/madras-high-court-bans-mobile-phones-inside-meenakshi-amman-temple-to-be-in-effect-from-march-3?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-28 10:13:00",
+      "like_count": 11,
+      "show_trending": false,
+      "id": "5a9681a012313a00b6a53d9b",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d72a4c699f080688e3e215b073f5317a",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_d72a4c699f080688e3e215b073f5317a",
+          "thumb_width": 250,
+          "width": 644,
+          "height": 362,
+          "source": "https://static.newsx.com/wp-content/uploads/2018/02/30269-ilvgfbyihv-1502284337-644x362.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|T|0|362231149]Madras High Court bans mobile phones inside Meenakshi Amman temple; to be in effect from March 3",
+      "seq_id": 362231149,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a9681a012313a00b6a53d9b/?from=59e187f52999b26fc235520f",
+      "site_url": "www.newsx.com",
+      "source": "News X",
+      "comments_count": 1,
+      "cgroup": null,
+      "media": {
+        "source": "News X",
+        "id": "573c4639cdffbc7e992874b3",
+        "avatar": {
+          "origin": "http://static.newsdog.today/media/news-x.png",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d898e8934863c9254038a6a0e08c6ab8",
+          "thumb_height": 333,
+          "thumb": "http://img.newsdog.today/thumb_d898e8934863c9254038a6a0e08c6ab8",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 1000,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/35cb7b5f00bf56bbc0ea78d4a004cb88.jpeg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
       "op_recommend": false,
-      "source_url": "http://www.foxnews.com/opinion/2016/12/23/trump-was-right-to-try-to-stop-obama-from-tying-his-hands-on-israel.html?fromNewsdog=1&utm_source=NewsDog",
-      "type": "article",
-      "id": "585dc7fc12907172872e38fb",
-      "bigger": null
+      "shared_count": 296,
+      "ad_type": "admob",
+      "source_url": "http://topyaps.com/sridevi-murder-boney-kapoor-death?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 12:04:03",
+      "like_count": 22,
+      "show_trending": false,
+      "id": "5a93f7cd12313a00b6a4f0b5",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d898e8934863c9254038a6a0e08c6ab8",
+          "thumb_height": 333,
+          "thumb": "http://img.newsdog.today/thumb_d898e8934863c9254038a6a0e08c6ab8",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 1000,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/35cb7b5f00bf56bbc0ea78d4a004cb88.jpeg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|D|H|0|362195888]Was Sridevi Murdered? You Won't Believe The Reason Of Her Death Mentioned In The Latest Forensic Report",
+      "seq_id": 362195888,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93f7cd12313a00b6a4f0b5/?from=59e187f52999b26fc235520f",
+      "site_url": "topyaps.com",
+      "source": "TopYaps",
+      "comments_count": 21,
+      "cgroup": null,
+      "media": {
+        "source": "TopYaps",
+        "id": "5950c91443fcca06521a5851",
+        "avatar": {
+          "origin": "http://static.newsdog.today/media/topyaps.png",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_3002fc333ed7aedfcd4db4667fbfd3ea",
+          "thumb_height": 250,
+          "thumb": "http://img.newsdog.today/thumb_3002fc333ed7aedfcd4db4667fbfd3ea",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 750,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/18d1af08a44b54d987309eb5e11a87c8.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_c593027da989a0d2c8047d05b946284c",
+          "thumb_height": 299,
+          "thumb": "http://img.newsdog.today/thumb_c593027da989a0d2c8047d05b946284c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 897,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/82fe342b3296ab18471ba6dd1dc6fa40.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_0d1b8a8c6bd2aab9fd2b2990f93c231d",
+          "thumb_height": 250,
+          "thumb": "http://img.newsdog.today/thumb_0d1b8a8c6bd2aab9fd2b2990f93c231d",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 750,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/9b7189ff6025cef42f43d736df8de31d.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 29,
+      "ad_type": "admob",
+      "source_url": "mpa_5a94f2e03a492366bc215983?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-27 17:38:14",
+      "like_count": 6,
+      "show_trending": false,
+      "id": "5a95978612313a00b84d5613",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_3002fc333ed7aedfcd4db4667fbfd3ea",
+          "thumb_height": 250,
+          "thumb": "http://img.newsdog.today/thumb_3002fc333ed7aedfcd4db4667fbfd3ea",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 750,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/18d1af08a44b54d987309eb5e11a87c8.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_c593027da989a0d2c8047d05b946284c",
+          "thumb_height": 299,
+          "thumb": "http://img.newsdog.today/thumb_c593027da989a0d2c8047d05b946284c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 897,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/82fe342b3296ab18471ba6dd1dc6fa40.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_0d1b8a8c6bd2aab9fd2b2990f93c231d",
+          "thumb_height": 250,
+          "thumb": "http://img.newsdog.today/thumb_0d1b8a8c6bd2aab9fd2b2990f93c231d",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 750,
+          "source": "http://hl-img.peco.inibaruberita.com/hubble/app/sm/9b7189ff6025cef42f43d736df8de31d.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": true,
+      "subscribed": false,
+      "title": "[21231547|oll_office|S|1|362219687]This girl has very attractive figure. See her bold pics",
+      "seq_id": 362219687,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a95978612313a00b84d5613/?from=59e187f52999b26fc235520f",
+      "site_url": "mp_5a6eceaf3a49231fcf0ffadf",
+      "source": "Latest Top News",
+      "comments_count": 1,
+      "cgroup": null,
+      "media": {
+        "source": "Latest Top News",
+        "id": "5a78214212313a3570f2f640",
+        "avatar": {
+          "origin": "http://img.newsdog.today/thumb_130646a875f5f5e1deb2235fcfe8e9c0_1517211247.17",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg",
+          "thumb_height": 160,
+          "thumb": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg",
+          "thumb_width": 200,
+          "width": 900,
+          "height": 600,
+          "source": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 17,
+      "ad_type": "admob",
+      "source_url": "http://english.tupaki.com/movienews/article/Esha-Gupta-In-White-Bikini/66996?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 01:53:00",
+      "like_count": 11,
+      "show_trending": false,
+      "id": "5a93baab12313a00b6a4e63b",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg",
+          "thumb_height": 160,
+          "thumb": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg",
+          "thumb_width": 200,
+          "width": 900,
+          "height": 600,
+          "source": "http://content.tupaki.com//twdata/2018/0218/news/Baadshaho-Beauty-Turns-Extremely-Sexy-1519630019-10.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|S|2|362191395]Baadshaho Beauty Turns Extremely Sexy",
+      "seq_id": 362191395,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93baab12313a00b6a4e63b/?from=59e187f52999b26fc235520f",
+      "site_url": "english.tupaki.com",
+      "source": "Tupaki English",
+      "comments_count": 1,
+      "cgroup": null,
+      "media": {
+        "source": "Tupaki English",
+        "id": "587757c1e5337bb050f0367f",
+        "avatar": {
+          "origin": null,
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_dc09d6931efa086408f92a7d342d64b2",
+          "thumb_height": 210,
+          "thumb": "http://img.newsdog.today/thumb_dc09d6931efa086408f92a7d342d64b2",
+          "thumb_width": 250,
+          "width": 641,
+          "height": 538,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/1-83.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_e67c970813ecede9dfc536b32586cacf",
+          "thumb_height": 132,
+          "thumb": "http://img.newsdog.today/thumb_e67c970813ecede9dfc536b32586cacf",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 395,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/sridevi_arjun_kapoor_banner_760x400.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_894da0f5fce686b3aebb86d349f22486",
+          "thumb_height": 156,
+          "thumb": "http://img.newsdog.today/thumb_894da0f5fce686b3aebb86d349f22486",
+          "thumb_width": 250,
+          "width": 647,
+          "height": 404,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/arjun-jhanvi-story_647_051917010942.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_49c36d9f64b805f46d03439dc6a04aa2",
+          "thumb_height": 140,
+          "thumb": "http://img.newsdog.today/thumb_49c36d9f64b805f46d03439dc6a04aa2",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 420,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/dc-Cover-ihdlk53rblb21g1a2c8h3ls6g3-20180225150942.Medi_.jpeg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_a91fc3a413ca01a1bc34f4168d7ec7f4",
+          "thumb_height": 188,
+          "thumb": "http://img.newsdog.today/thumb_a91fc3a413ca01a1bc34f4168d7ec7f4",
+          "thumb_width": 250,
+          "width": 448,
+          "height": 336,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/तो-क्या-श्रीदेवी-ने-बोनी-कपूर-को-बांधी-थी-राखी.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_cb0a9fd83c22c910d61db562cbca89b8",
+          "thumb_height": 143,
+          "thumb": "http://img.newsdog.today/thumb_cb0a9fd83c22c910d61db562cbca89b8",
+          "thumb_width": 250,
+          "width": 700,
+          "height": 400,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/article-l-2017924810220637326000.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_0f6c3221bd4eee99f1296f49dcf4b373",
+          "thumb_height": 147,
+          "thumb": "http://img.newsdog.today/thumb_0f6c3221bd4eee99f1296f49dcf4b373",
+          "thumb_width": 250,
+          "width": 670,
+          "height": 393,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/article-2017615212395645596000.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_f427b6ffe2fedcc6e4efc14375a3c81c",
+          "thumb_height": 194,
+          "thumb": "http://img.newsdog.today/thumb_f427b6ffe2fedcc6e4efc14375a3c81c",
+          "thumb_width": 250,
+          "width": 570,
+          "height": 443,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/arjun-kapoor1_149841_1498.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_0e7b528581f0dcfd8c7c941ac3c57d3d",
+          "thumb_height": 194,
+          "thumb": "http://img.newsdog.today/thumb_0e7b528581f0dcfd8c7c941ac3c57d3d",
+          "thumb_width": 250,
+          "width": 570,
+          "height": 443,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/arjun-kapoor6_149841_1498.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_a91d2519c30ed77de95c76fa91e95e60",
+          "thumb_height": 279,
+          "thumb": "http://img.newsdog.today/thumb_a91d2519c30ed77de95c76fa91e95e60",
+          "thumb_width": 250,
+          "width": 670,
+          "height": 747,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/12arjun-kapoor-nani-funeral1.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_24135e30ca935dfbc169266ba1732ea2",
+          "thumb_height": 250,
+          "thumb": "http://img.newsdog.today/thumb_24135e30ca935dfbc169266ba1732ea2",
+          "thumb_width": 250,
+          "width": 600,
+          "height": 599,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/Capture-96.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_5ddec87eb20fe4821a9d913887ace8b0",
+          "thumb_height": 139,
+          "thumb": "http://img.newsdog.today/thumb_5ddec87eb20fe4821a9d913887ace8b0",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 417,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/sandeep-aur-pinky-faraar-759.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_126d51a48db4e2b2ae36ef769047b239",
+          "thumb_height": 164,
+          "thumb": "http://img.newsdog.today/thumb_126d51a48db4e2b2ae36ef769047b239",
+          "thumb_width": 250,
+          "width": 422,
+          "height": 276,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/tenor-3.gif"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 278,
+      "ad_type": "admob",
+      "source_url": "http://topyaps.com/arjun-kapoor-never-accepted-sridevi-and-her-daughters?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 06:53:51",
+      "like_count": 12,
+      "show_trending": false,
+      "id": "5a93b2bf12313a00b6a4e502",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_dc09d6931efa086408f92a7d342d64b2",
+          "thumb_height": 210,
+          "thumb": "http://img.newsdog.today/thumb_dc09d6931efa086408f92a7d342d64b2",
+          "thumb_width": 250,
+          "width": 641,
+          "height": 538,
+          "source": "https://topyaps.com/wp-content/uploads/2018/02/1-83.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|D|0|362190865]Stepson Arjun Kapoor Never Accepted Sridevi And Her Daughters Because Of This Personal Reason",
+      "seq_id": 362190865,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93b2bf12313a00b6a4e502/?from=59e187f52999b26fc235520f",
+      "site_url": "topyaps.com",
+      "source": "TopYaps",
+      "comments_count": 14,
+      "cgroup": null,
+      "media": {
+        "source": "TopYaps",
+        "id": "5950c91443fcca06521a5851",
+        "avatar": {
+          "origin": "http://static.newsdog.today/media/topyaps.png",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_031b45794bf96b9d6dafd75b4e0a8d2c",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_031b45794bf96b9d6dafd75b4e0a8d2c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/02/24/Pictures/_6a37cd0e-194d-11e8-a4d7-7f47b8de9439.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_d061a8821f7dd1b32f4bf221f14dc731",
+          "thumb_height": 172,
+          "thumb": "http://img.newsdog.today/thumb_d061a8821f7dd1b32f4bf221f14dc731",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 516,
+          "source": "http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/02/24/Pictures/_31e7a90c-194c-11e8-a4d7-7f47b8de9439.JPG"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_55aae98fffb1b3e8cb34a67f947fe263",
+          "thumb_height": 188,
+          "thumb": "http://img.newsdog.today/thumb_55aae98fffb1b3e8cb34a67f947fe263",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 564,
+          "source": "http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/02/24/Pictures/_63b99f4e-194c-11e8-a4d7-7f47b8de9439.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 2,
+      "ad_type": "admob",
+      "source_url": "http://www.hindustantimes.com/more-lifestyle/opos-recipes-gajar-halwa-in-10-minutes-chicken-tikka-masala-in-7-try-it/story-vZRVKySlEw2659jFVhMvyH.html?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-27 03:52:00",
+      "like_count": 3,
+      "show_trending": false,
+      "id": "5a94d6af12313a00bce16428",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_031b45794bf96b9d6dafd75b4e0a8d2c",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_031b45794bf96b9d6dafd75b4e0a8d2c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/02/24/Pictures/_6a37cd0e-194d-11e8-a4d7-7f47b8de9439.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362206293]OPOS recipes: Gajar halwa in 10 minutes, chicken tikka masala in 7. Try it",
+      "seq_id": 362206293,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a94d6af12313a00bce16428/?from=59e187f52999b26fc235520f",
+      "site_url": "www.hindustantimes.com",
+      "source": "Hindustan Times",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Hindustan Times",
+        "id": "573c4639cdffbc7e99287392",
+        "avatar": {
+          "origin": "http://static.newsdog.today/media/hindustan-times.png",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_73589722b3682f6e31219025de76e66c",
+          "thumb_height": 138,
+          "thumb": "http://img.newsdog.today/thumb_73589722b3682f6e31219025de76e66c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 413,
+          "source": "http://s.wionews.com/photos/untitled%20design%20(82)-20180226125022-1170x645.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://www.wionews.com/sports/griezmanns-hat-trick-helps-atletico-to-cut-gap-on-barcelona-34034?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 00:55:09",
+      "like_count": 1,
+      "show_trending": false,
+      "id": "5a935d5e12313a00b6a4db77",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_73589722b3682f6e31219025de76e66c",
+          "thumb_height": 138,
+          "thumb": "http://img.newsdog.today/thumb_73589722b3682f6e31219025de76e66c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 413,
+          "source": "http://s.wionews.com/photos/untitled%20design%20(82)-20180226125022-1170x645.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362187036]Griezmann's hat-trick helps Atletico to cut gap on Barcelona",
+      "seq_id": 362187036,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a935d5e12313a00b6a4db77/?from=59e187f52999b26fc235520f",
+      "site_url": "www.wionews.com",
+      "source": "Wion",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Wion",
+        "id": "5885d1f7e5337bb050f03707",
+        "avatar": {
+          "origin": null,
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg",
+          "thumb_height": 160,
+          "thumb": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg",
+          "thumb_width": 200,
+          "width": 900,
+          "height": 600,
+          "source": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg"
+        },
+        {
+          "origin": "https://cdn2.zenparent.in/wp-content/uploads/2018/02/iohcrihvt4oy5fzykondk8qf2ekupzh-ulrz1sdqakn1uoe8q1n3160nzdvrjlryk7xiffstdzmajd9rx_nx0wj-1urs-300x150.jpg",
+          "thumb_height": 160,
+          "thumb": "https://cdn2.zenparent.in/wp-content/uploads/2018/02/iohcrihvt4oy5fzykondk8qf2ekupzh-ulrz1sdqakn1uoe8q1n3160nzdvrjlryk7xiffstdzmajd9rx_nx0wj-1urs-300x150.jpg",
+          "thumb_width": 200,
+          "width": 900,
+          "height": 600,
+          "source": "https://cdn2.zenparent.in/wp-content/uploads/2018/02/iohcrihvt4oy5fzykondk8qf2ekupzh-ulrz1sdqakn1uoe8q1n3160nzdvrjlryk7xiffstdzmajd9rx_nx0wj-1urs-300x150.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": "UA-56979549-1"
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 262,
+      "ad_type": "admob",
+      "source_url": "http://zenparent.in/parenting/7-vaginal-facts-husband-know?src=jio-zenparent?src=jio-zenparent&fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 02:30:00",
+      "like_count": 133,
+      "show_trending": false,
+      "id": "5a93769212313a00b6a4dcdd",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg",
+          "thumb_height": 160,
+          "thumb": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg",
+          "thumb_width": 200,
+          "width": 900,
+          "height": 600,
+          "source": "https://cdn3.zenparent.in/wp-content/uploads/2018/02/Untitled-design-53-1-1.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|D|H|4|362187612]7 Vaginal Facts Your Husband Should Know",
+      "seq_id": 362187612,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93769212313a00b6a4dcdd/?from=59e187f52999b26fc235520f",
+      "site_url": "zenparent.in",
+      "source": "Zenparent",
+      "comments_count": 5,
+      "cgroup": null,
+      "media": {
+        "source": "Zenparent",
+        "id": "58a3e6f4e5337bb050f037bd",
+        "avatar": {
+          "origin": "http://static.newsdog.today/media/zenparent.png",
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_2366af75918c21544ebf4a012b6fce2b",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_2366af75918c21544ebf4a012b6fce2b",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "http://static.dnaindia.com/sites/default/files/2018/02/28/656155-jaipurfarmerarrest.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://newssummedup.com/summary/‘Left’-in-the-lurch-for-ages-party-all-set-for-political-harvest-through-farmers’-stir-rfy3iq?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-28 00:00:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a96865012313a00b6a53dd2",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_2366af75918c21544ebf4a012b6fce2b",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_2366af75918c21544ebf4a012b6fce2b",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "http://static.dnaindia.com/sites/default/files/2018/02/28/656155-jaipurfarmerarrest.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|N|0|362231458]‘Left’ in the lurch for ages, party all set for political harvest through farmers’ stir",
+      "seq_id": 362231458,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a96865012313a00b6a53dd2/?from=59e187f52999b26fc235520f",
+      "site_url": "newssummedup.com",
+      "source": "News Summed Up",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "News Summed Up",
+        "id": "59b370b860bb7832df0282e1",
+        "avatar": {
+          "origin": null,
+          "width": 140,
+          "height": 140
+        }
+      },
+      "is_hot": false,
+      "partner_switch": true,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_b7c9631c7d1248ba72559a03ff6dd827",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_b7c9631c7d1248ba72559a03ff6dd827",
+          "thumb_width": 250,
+          "width": 250,
+          "height": 141,
+          "source": "http://ww1.prweb.com/prfiles/2018/02/21/15236772/gI_90907_Website-Press-Release2.png"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://www.prweb.com/releases/2018/02/prweb15236772.htm?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-25 18:30:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a93e93912313a00b6a4edaf",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_b7c9631c7d1248ba72559a03ff6dd827",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_b7c9631c7d1248ba72559a03ff6dd827",
+          "thumb_width": 250,
+          "width": 250,
+          "height": 141,
+          "source": "http://ww1.prweb.com/prfiles/2018/02/21/15236772/gI_90907_Website-Press-Release2.png"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362194707]Rudy Project North America Launches New E-Commerce Site Designed for Customers First",
+      "seq_id": 362194707,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93e93912313a00b6a4edaf/?from=59e187f52999b26fc235520f",
+      "site_url": "www.prweb.com",
+      "source": "prweb",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "prweb",
+        "id": "57b6ceb019ae922168b6a52d",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_f77ab3dc4fdb0a8a32ad7da464eff6a5",
+          "thumb_height": 161,
+          "thumb": "http://img.newsdog.today/thumb_f77ab3dc4fdb0a8a32ad7da464eff6a5",
+          "thumb_width": 250,
+          "width": 644,
+          "height": 414,
+          "source": "https://static.pulse.ng/img/world/origs8037610/3006366907-w644-h960/40e63df3abb46ab7a36d28e1ec7e69f92266e489.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 1,
+      "ad_type": "admob",
+      "source_url": "http://www.pulse.com.gh/news/world/bahrain-upholds-death-sentence-for-bombing-linked-to-iran-id8037611.html?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-26 07:55:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a93fced12313a00b84d3bca",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_f77ab3dc4fdb0a8a32ad7da464eff6a5",
+          "thumb_height": 161,
+          "thumb": "http://img.newsdog.today/thumb_f77ab3dc4fdb0a8a32ad7da464eff6a5",
+          "thumb_width": 250,
+          "width": 644,
+          "height": 414,
+          "source": "https://static.pulse.ng/img/world/origs8037610/3006366907-w644-h960/40e63df3abb46ab7a36d28e1ec7e69f92266e489.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362196250]Bahrain upholds death sentence for bombing linked to Iran",
+      "seq_id": 362196250,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a93fced12313a00b84d3bca/?from=59e187f52999b26fc235520f",
+      "site_url": "pulse.com.gh",
+      "source": "Pulse",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Pulse",
+        "id": "57a06a5019ae926128bca07c",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d4bba863af3b3493afd9b5d00f9197e3",
+          "thumb_height": 151,
+          "thumb": "http://img.newsdog.today/thumb_d4bba863af3b3493afd9b5d00f9197e3",
+          "thumb_width": 250,
+          "width": 715,
+          "height": 431,
+          "source": "http://thehitavada.com/Encyc/2018/2/27/404_10_26_35_ED_summons_PNB_MD_Nirav_wife_skip_summons_H@@IGHT_431_W@@IDTH_715.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://thehitavada.com/Encyc/2018/2/27/ED-summons-PNB-MD;-Nirav,-wife-skip-summons.aspx?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-27 04:55:02",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a94f41712313a00b6a508ab",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_d4bba863af3b3493afd9b5d00f9197e3",
+          "thumb_height": 151,
+          "thumb": "http://img.newsdog.today/thumb_d4bba863af3b3493afd9b5d00f9197e3",
+          "thumb_width": 250,
+          "width": 715,
+          "height": 431,
+          "source": "http://thehitavada.com/Encyc/2018/2/27/404_10_26_35_ED_summons_PNB_MD_Nirav_wife_skip_summons_H@@IGHT_431_W@@IDTH_715.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362207574]ED summons PNB MD; Nirav, wife skip summons",
+      "seq_id": 362207574,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a94f41712313a00b6a508ab/?from=59e187f52999b26fc235520f",
+      "site_url": "thehitavada.com",
+      "source": "Hitavada",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Hitavada",
+        "id": "57a06a5119ae926128bca141",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_40d046b756a564d75f6407061faaba2d",
+          "thumb_height": 167,
+          "thumb": "http://img.newsdog.today/thumb_40d046b756a564d75f6407061faaba2d",
+          "thumb_width": 250,
+          "width": 600,
+          "height": 400,
+          "source": "http://www.tradearabia.com/source/2018/02/26/swiss06.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://www.tradearabia.com/news/TTN_337218.html?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-25 18:30:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a940d5e12313a00b71bde47",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_40d046b756a564d75f6407061faaba2d",
+          "thumb_height": 167,
+          "thumb": "http://img.newsdog.today/thumb_40d046b756a564d75f6407061faaba2d",
+          "thumb_width": 250,
+          "width": 600,
+          "height": 400,
+          "source": "http://www.tradearabia.com/source/2018/02/26/swiss06.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362197620]New GM for Grand Swiss-Belresort Seef",
+      "seq_id": 362197620,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a940d5e12313a00b71bde47/?from=59e187f52999b26fc235520f",
+      "site_url": "www.tradearabia.com",
+      "source": "Trade Arabia",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Trade Arabia",
+        "id": "57a06a5319ae926128bca1e3",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_6b032503087684b1cb341501b45af7b0",
+          "thumb_height": 167,
+          "thumb": "http://img.newsdog.today/thumb_6b032503087684b1cb341501b45af7b0",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 500,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-9-840x560.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_b5662bdc6e0840b24d671ae18f6a306a",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_b5662bdc6e0840b24d671ae18f6a306a",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-8-840x473.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_d7d4972eaa6e906ed9113b49d9c8ffbc",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_d7d4972eaa6e906ed9113b49d9c8ffbc",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-7-840x473.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_597ab278e015a38e5a63ee4ec49448af",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_597ab278e015a38e5a63ee4ec49448af",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-6-840x473.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_cc17d2a144546ea82bc38f414b24b1c8",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_cc17d2a144546ea82bc38f414b24b1c8",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-3-840x473.jpg"
+        },
+        {
+          "origin": "http://img.newsdog.today/origin_3d9736f6e262b98946b4902f601c99ef",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_3d9736f6e262b98946b4902f601c99ef",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-5-840x473.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 1,
+      "ad_type": "admob",
+      "source_url": "http://www.androidauthority.com/samsung-galaxy-s9-plus-vs-note-8-839946/?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-25 17:32:08",
+      "like_count": 7,
+      "show_trending": false,
+      "id": "5a92fa1a12313a00b6a4d5ba",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_6b032503087684b1cb341501b45af7b0",
+          "thumb_height": 167,
+          "thumb": "http://img.newsdog.today/thumb_6b032503087684b1cb341501b45af7b0",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 500,
+          "source": "https://cdn57.androidauthority.net/wp-content/uploads/2018/02/samsung-galaxy-s9-vs-note-8-quick-look-aa-9-840x560.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362184484]Samsung Galaxy S9 Plus vs Note 8: A glimpse of the Note 9",
+      "seq_id": 362184484,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a92fa1a12313a00b6a4d5ba/?from=59e187f52999b26fc235520f",
+      "site_url": "www.androidauthority.com",
+      "source": "androidauthority",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "androidauthority",
+        "id": "580d87cee5337bb050f033d7",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_5b0a746b6a99826886f2427843a6e86c",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_5b0a746b6a99826886f2427843a6e86c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "http://media.ws.irib.ir/image/4bpm0ff366fada11wn6_800C450.jpg"
+        }
+      ],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://parstoday.com/en/news/middle_east-i77687-22_bahraini_anti_regime_activists_sentenced_to_death_with_six_losing_appeal?fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-27 11:33:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a9592a812313a00b84d559e",
+      "bigger": false,
+      "top_images": [
+        {
+          "origin": "http://img.newsdog.today/origin_5b0a746b6a99826886f2427843a6e86c",
+          "thumb_height": 141,
+          "thumb": "http://img.newsdog.today/thumb_5b0a746b6a99826886f2427843a6e86c",
+          "thumb_width": 250,
+          "width": 750,
+          "height": 422,
+          "source": "http://media.ws.irib.ir/image/4bpm0ff366fada11wn6_800C450.jpg"
+        }
+      ],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|O:3|0|362219362]22 Bahraini anti-regime activists sentenced to death with six losing appeal",
+      "seq_id": 362219362,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a9592a812313a00b84d559e/?from=59e187f52999b26fc235520f",
+      "site_url": "parstoday.com",
+      "source": "Parstoday",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "Parstoday",
+        "id": "573c4639cdffbc7e992873ef",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
+    },
+    {
+      "show_quick_view_btn": true,
+      "related_images": [],
+      "track": [
+        {
+          "gaid": ""
+        }
+      ],
+      "op_recommend": false,
+      "shared_count": 0,
+      "ad_type": "admob",
+      "source_url": "http://www.daijiworld.com/news/newsDisplay.aspx?newsID=497740&fromNewsdog=1&utm_source=NewsDog&utm_medium=referral",
+      "published_at": "2018-02-28 00:00:00",
+      "like_count": 0,
+      "show_trending": false,
+      "id": "5a96866d12313a00b6a53ddb",
+      "bigger": false,
+      "top_images": [],
+      "show_src_direct": false,
+      "is_mp": false,
+      "subscribed": false,
+      "title": "[21231547|oll_office|N|0|362231467]Nothing to do with Atwal's presence at Mumbai event: Government",
+      "seq_id": 362231467,
+      "load_ad": true,
+      "share_url": "http://www.newsdogshare.com/a/article/5a96866d12313a00b6a53ddb/?from=59e187f52999b26fc235520f",
+      "site_url": "www.daijiworld.com",
+      "source": "daijiworld",
+      "comments_count": 0,
+      "cgroup": null,
+      "media": {
+        "source": "daijiworld",
+        "id": "573c4639cdffbc7e99287482",
+        "avatar": {}
+      },
+      "is_hot": false,
+      "partner_switch": false,
+      "type": "article"
     }
   ],
+  "banner_info": {
+    "url": "http://static.newsdog.today/banner/m.html?v=3",
+    "pos": 2
+  },
+  "refresh_id": "5a96870629bebd15a30c83fe",
+  "media_ad": {
+    "loc": 2,
+    "ad_type": "admob"
+  },
   "topics": {
     "loc": 0,
     "data": [
       {
-        "detail": "this is detail",
-        "title": "this is title",
+        "title": "",
+        "seq_id": 74,
+        "detail": "",
+        "share_url": "http://www.newsdogshare.com/t/article/5a9680ace4f00603806760d7/?from=59e187f52999b26fc235520f",
         "block_images": [
           {
-            "origin": "http://image.newsdog.today/origin_2f32e0c42c46bc8d44181160e2200e1c",
-            "width": 600,
-            "thumb_height": 113,
-            "thumb": "http://image.newsdog.today/thumb_2f32e0c42c46bc8d44181160e2200e1c",
-            "thumb_width": 200,
-            "source": "http://data1.ibtimes.co.in/cache-img-0-450/en/full/624947/1477910547_upcoming-tata-motors-vehicles.jpg",
-            "height": 338
+            "origin": "http://img.newsdog.today/origin_cd577efe85263b9312d5caa9154c8815",
+            "headline_height": 135,
+            "thumb_height": 278,
+            "headline_width": 500,
+            "thumb": "http://img.newsdog.today/thumb_cd577efe85263b9312d5caa9154c8815",
+            "thumb_width": 500,
+            "width": 540,
+            "origin_jpg": "http://img.newsdog.today/origin_jpg_cd577efe85263b9312d5caa9154c8815",
+            "height": 300,
+            "thumb_jpg": "http://img.newsdog.today/thumb_jpg_cd577efe85263b9312d5caa9154c8815",
+            "headline_jpg": "http://img.newsdog.today/headline_jpg_cd577efe85263b9312d5caa9154c8815",
+            "headline": "http://img.newsdog.today/headline_cd577efe85263b9312d5caa9154c8815",
+            "type": "webp"
           }
         ],
         "images": [
           {
-            "origin": "http://image.newsdog.today/origin_2f32e0c42c46bc8d44181160e2200e1c",
-            "source": "http://data1.ibtimes.co.in/cache-img-0-450/en/full/624947/1477910547_upcoming-tata-motors-vehicles.jpg",
-            "thumb_height": 113,
-            "thumb": "http://image.newsdog.today/thumb_2f32e0c42c46bc8d44181160e2200e1c",
-            "thumb_width": 200,
-            "width": 600,
-            "height": 338
-          },
-          {
-            "origin": "http://image.newsdog.today/origin_fddcb97d983e78ff5abd1ca89a5253e7",
-            "source": "http://data1.ibtimes.co.in/cache-img-0-450/en/full/623642/1477910547_tata-hexa.jpg",
-            "thumb_height": 133,
-            "thumb": "http://image.newsdog.today/thumb_fddcb97d983e78ff5abd1ca89a5253e7",
-            "thumb_width": 200,
-            "width": 600,
-            "height": 400
-          },
-          {
-            "origin": "http://image.newsdog.today/origin_cda965984d625a18ac3522fa0f314644",
-            "source": "http://data1.ibtimes.co.in/cache-img-700-420/en/full/600225/1477910547_tata-kite-5.jpg",
-            "thumb_height": 120,
-            "thumb": "http://image.newsdog.today/thumb_cda965984d625a18ac3522fa0f314644",
-            "thumb_width": 200,
-            "width": 600,
-            "height": 360
+            "origin": "http://img.newsdog.today/origin_6f73842446aabca25bf12e09a81f69b3",
+            "headline_height": 135,
+            "thumb_height": 313,
+            "headline_width": 500,
+            "thumb": "http://img.newsdog.today/thumb_6f73842446aabca25bf12e09a81f69b3",
+            "thumb_width": 500,
+            "width": 750,
+            "origin_jpg": "http://img.newsdog.today/origin_jpg_6f73842446aabca25bf12e09a81f69b3",
+            "height": 469,
+            "thumb_jpg": "http://img.newsdog.today/thumb_jpg_6f73842446aabca25bf12e09a81f69b3",
+            "headline_jpg": "http://img.newsdog.today/headline_jpg_6f73842446aabca25bf12e09a81f69b3",
+            "source": "http://www.nagpurtoday.in/wp-content/uploads/2018/02/Sugar-Gathiyan-Holi-600x343.jpg",
+            "headline": "http://img.newsdog.today/headline_6f73842446aabca25bf12e09a81f69b3",
+            "type": "webp"
           }
         ],
         "type": "topic",
-        "id": "581b04dc19ae920e5d4fe2df",
-        "expire_at": "2016-11-06 09:36:05",
-        "desc": "this is desc"
+        "id": "5a9680ace4f00603806760d7",
+        "desc": "Happy Holi 2018: Top news related to Holi "
       }
     ]
   },
-  "video": {
-    "loc": 2,
-    "data": {
-      "category": null,
-      "top_images": [
-        {
-          "origin": "http://image.newsdog.today/origin_ac153540efcea5481800fe9356dbd01c",
-          "width": 480,
-          "thumb_height": 225,
-          "thumb": "http://image.newsdog.today/thumb_ac153540efcea5481800fe9356dbd01c",
-          "thumb_width": 300,
-          "source": "https://i4.ytimg.com/vi/k4NrC9n6pLo/hqdefault.jpg",
-          "height": 360
-        }
-      ],
-      "liked": false,
-      "favored": false,
-      "seq_id": 297859,
-      "shared_count": null,
-      "youtube": [
-        "k4NrC9n6pLo"
-      ],
-      "ad_type": "fb",
-      "share_url": "http://www.newsdogshare.com/a/youtube_video/581af3fbe264506697ed77fc/?from=56f4ada3cdffbc368c953306",
-      "content": "SUKU SUKU Full Video Song | Tutak Tutak Tutiya | Prabhudeva ,Sonu Sood & Tamannaah",
-      "source": "T-Series",
-      "like_count": 1,
-      "comments_count": null,
-      "type": "youtube_video",
-      "id": "581af3fbe264506697ed77fc"
-    }
-  },
-  "gif": {
-    "loc": 5,
-    "data": {
-      "category": null,
-      "top_images": [{
-        "origin": "http://image.newsdog.today/origin_6e7e95c52ac42463ef174613b05d0896",
-        "source": "https://m.popkey.co/473730/zExZ7_f-thumbnail-100-0.jpg",
-        "thumb_height": 150,
-        "thumb": "http://image.newsdog.today/thumb_6e7e95c52ac42463ef174613b05d0896",
-        "thumb_width": 300,
-        "width": 500,
-        "height": 250
-      }],
-      "liked": false,
-      "load_ad": true,
-      "favored": false,
-      "seq_id": 336464,
-      "shared_count": null,
-      "share_url": "http://www.newsdogshare.com/a/funny/585a200519ae927168851c98/?from=569efed4cdffbc14e5f0ab54",
-      "content": "",
-      "like_count": 0,
-      "comments_count": null,
-      "video": "http://image.newsdog.today/popkey_2a4442",
-      "type": "funny",
-      "id":"585a200519ae927168851c98"
-    }
-  },
-  "refresh_id": "efbfc77de6709b2e56c505e665faee81"
+  "ext_params": "__bucket=hi&__source=newsdog"
 }

@@ -2,16 +2,31 @@
   {
     "path": "/v4/users/",
     "method": "POST",
-    "resp_file": "/Users/mrsimple/GoProjects/src/mockserver/config/responses/users_resp.json"
+    "resp_file": "users_resp.json"
   },
   {
     "path": "/v5/categories/rec/articles/next/",
     "method": "GET",
-    "resp_file": "/Users/mrsimple/GoProjects/src/mockserver/config/responses/news_list_data.json"
+    "resp_file": "news_list_data.json"
   },
   {
     "path": "/v9/categories/sorted/",
     "method": "GET",
-    "resp_file": "/Users/mrsimple/GoProjects/src/mockserver/config/responses/channels.json"
+    "resp_file": "channels.json"
+  },
+  {
+    "path": "/v6/categories/video/articles/next/",
+    "method": "GET",
+    "resp_file": "videos_list_data.json"
+  },
+  {
+    "path": "/v5/categories/image/articles/next/",
+    "method": "GET",
+    "resp_file": "beauty_list_data.json"
+  },
+  {
+    "path": "/v5/categories/funny/articles/next/",
+    "method": "GET",
+    "resp_file": "lol_list_data.json"
   }
 ]
