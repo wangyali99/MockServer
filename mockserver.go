@@ -33,7 +33,7 @@ var mappings []*RespMapping
 // 3. 返回结果
 
 func main() {
-	fmt.Println("this is submoudle")
+	
 	current_dir, _ := os.Getwd()
 	mappingFilePath := filepath.Join(current_dir,"config", "mapping.json")
 	// if len(os.Args) == 2 {
